@@ -3,9 +3,13 @@
    <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
-<h4 align='center'>
-  Competitive Programmer | Software Engineer in progress
-</h4>
+
+<div>
+	<h3 align='center'> 
+		Competitive Programmer | Software Engineer Student | <a href="https://www.auronix.com/" target="_blanc" style="color:white;"> Tech Internship at Auronix </a> 
+	</h3>
+</div>
+
 
 
 ## 🧑 About me:
