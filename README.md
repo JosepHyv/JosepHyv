@@ -21,8 +21,14 @@ I am a <b>competitive programmer</b> for 5 years now, who loves <b>technology</b
 Currently, I am preparing to start an <b>internship </b> and participate in google and facebook coding competitions  ❤️, codeforces ❤️, and ICPC ❤️, while I finish my university studies ❤️.
 </p>
 
+---
+<h1>Tecnologies that i knew</h1>
 
-<h2>ℹ️ &nbsp;Github Info</h2>
+
+
+---
+
+<h2>ℹGithub Info</h2>
 	
   <summary><b>🔎 Github Profile Details</b></summary>
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosepHyv&theme=github_dark" alt="JosepHyv" align = "center"/></p>
@@ -35,7 +41,7 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JosepHyv&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JosepHyv" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=JosepHyv&custom_title=Josephy%20Graph%20📊&theme=github-compact" /></a></p>
+<img align="center" alt="Ashish Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=JosepHyv&custom_title=Josephy%20Graph%20📊&theme=github-compact"/>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
