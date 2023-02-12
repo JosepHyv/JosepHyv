@@ -41,7 +41,7 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JosepHyv&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JosepHyv" /></p>
 
 <summary><b>📊 Github Contribution Graph</b></summary>
-<img align="center" alt="Ashish Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=JosepHyv&custom_title=Josephy%20Graph%20📊&theme=github-compact"/>
+<img align="center" alt="Ashish Kumar Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=JosepHyv&custom_title=Josephy%20Graph&theme=github-compact"/>
 <!-- </details>
 <details>    -->
  <summary><b>🏆 Github Achievements</b></summary>
