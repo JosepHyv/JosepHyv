@@ -92,10 +92,10 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosepHyv&theme=github_dark" alt="JosepHyv" align = "center"/></p>
 
-  <summary><b>⚡ Github Stats</b></summary>
-<div align="center">
+<summary><b>⚡ Github Stats</b></summary>
+
+<p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosepHyv&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="JosepHyv" align = "center"/>
-<div> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosepHyv&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JosepHyv" align = "center"/>
 </p>
 
