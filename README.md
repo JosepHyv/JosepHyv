@@ -31,7 +31,7 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 </p>
 
 ---
-<h1>Programming Languages and Technologies I know 🤓❤️</h1>
+<h3><b>Programming Languages and Technologies I know 🤓❤️</b></h3>
 <div align="center">
 <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a href="#"><img alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
@@ -64,7 +64,7 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 
 --- 
 
-<h2>Programming Languages and Technologies I want to learn ❤️</h2>
+<h3><b>Programming Languages and Technologies I want to learn ❤️</b></h3>
 
 <div align="center">
 <a href="#"><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
@@ -96,8 +96,6 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosepHyv&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="JosepHyv" align = "center"/>
 <div> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosepHyv&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JosepHyv" align = "center"/>
-<p><b>Note:</b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
-</div>
 </div>
 
 
