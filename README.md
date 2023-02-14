@@ -62,23 +62,9 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 <a href="#"><img alt="obsidian" src="https://img.shields.io/badge/obsidian-3d354b?style=for-the-badge&logo=obsidian&logoColor=white"></a>
 </div>
 
----
-
-<h2>Thinks that i love ❤️ </h2>
-
-<div align="center"> 
-<a href="#"><img alt="arch linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"></a>
-<a href="#"><img alt="arch linux" src="https://img.shields.io/badge/fedora-54487A?style=for-the-badge&logo=fedora&logoColor=white"></a>
-<a href="#"><img alt="arch linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-<a href="#"><img alt="arch linux" src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"></a>
-<a href="#"><img alt="arch linux" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"></a>
-
-
-</div>
-
 --- 
 
-<h2>Programming Languages and Technologies I want to learn</h2>
+<h2>Programming Languages and Technologies I want to learn ❤️</h2>
 
 <div align="center">
 <a href="#"><img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"></a>
