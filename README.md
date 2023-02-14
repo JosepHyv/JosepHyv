@@ -92,8 +92,14 @@ Currently, I am preparing to start an <b>internship </b> and participate in goog
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosepHyv&theme=github_dark" alt="JosepHyv" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosepHyv&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="JosepHyv" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosepHyv&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JosepHyv" align = "center"/></p>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosepHyv&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="JosepHyv" align = "center"/>
+<div> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosepHyv&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="JosepHyv" align = "center"/>
+<p><b>Note:</b>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
+</div>
+</div>
+
 
  <summary><b>🔥 Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JosepHyv&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="JosepHyv" /></p>
