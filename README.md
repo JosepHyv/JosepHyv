@@ -6,7 +6,7 @@
 
 <div>
 	<h3 align='center'> 
-		Competitive Programmer | Software Engineer Student | <a href="https://www.auronix.com/" target="_blanc" style="color:white;"> Tech Internship at Auronix </a> 
+		Competitive Programmer | Software Engineer Student | <a href="https://www.auronix.com/" target="_blanc" style="color:white;">Auronix Jr Developer</a> 
 	</h3>
 </div>
 
