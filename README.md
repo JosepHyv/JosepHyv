@@ -25,7 +25,7 @@
 
 
 <p>
-I am a <b>competitive programmer</b> for 5 years now, who loves <b>technology</b>, <b>mathematics</b> and <b>problem solving</b>, I find myself learning day by day, striving to be a software engineer, looking for opportunities to do <b>internships</b> in companies and <b>collaborate</b> with organizations and projects such as <b><a href="https://omegaup.com" title="Omegaup">OmegaUp</a> </b>, <b><a href="https://www.olimpiadadeinformatica.org.mx/OMI/OMI/Inicio.aspx" title="Olimpiada Mexicana de Informatica"> OMI </a></b>, <b><a href="https://ofmi.omegaup.com/" title="Olimpiada Femenil Mexicana de Informática"> OFMI</a></b> and very interesting technologies and repos, promoting education and learning in programming and development.
+<b>competitive programmer</b> and software developer, who loves <b>technology</b>, <b>mathematics</b> and <b>problem solving</b>, I find myself learning day by day, striving to be a software engineer, looking for opportunities to do <b>internships</b> in companies and <b>collaborate</b> with organizations and projects such as <b><a href="https://omegaup.com" title="Omegaup">OmegaUp</a> </b>, <b><a href="https://www.olimpiadadeinformatica.org.mx/OMI/OMI/Inicio.aspx" title="Olimpiada Mexicana de Informatica"> OMI </a></b>, <b><a href="https://ofmi.omegaup.com/" title="Olimpiada Femenil Mexicana de Informática"> OFMI</a></b> and very interesting technologies and repos, promoting education and learning in programming and development.
 
 Currently, I am preparing to start an <b>internship </b> and participate in google and facebook coding competitions  ❤️, codeforces ❤️, and ICPC ❤️, while I finish my university studies ❤️.
 </p>
