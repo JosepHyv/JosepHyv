@@ -75,6 +75,6 @@ I enjoy creating and contributing to open-source projects, whether backend, fron
 
 <div align="center"> 
     <a href="https://open.spotify.com/user/5m7bdb7zhllwlze420g1w57yt?si=30a4133f39ef4ed9">   
-       <img src="https://josephyspotify.vercel.app/api"  align="center" alt="Spotify Playing" width="500"  />
+       <img src="https://josephyspotify.vercel.app/api?theme=dark"  align="center" alt="Spotify Playing" width="500"  />
     </a>
 </div>
