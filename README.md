@@ -35,7 +35,7 @@ I enjoy creating and contributing to open-source projects, whether backend, fron
 
 ---
 
-### **Things i love** ❤️
+### **Things that i love** ❤️
 
 <div align="center">
    <div align="center">
@@ -58,12 +58,12 @@ I enjoy creating and contributing to open-source projects, whether backend, fron
 ### Github Stats ⚡🤓☝️
 
 <div align="center"> 
-   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosepHyv&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="JosepHyv" align = "center"/>
+   <!-- <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JosepHyv&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true" alt="JosepHyv" align = "center"/> -->
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosepHyv&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397&show_icons=true&include_all_commits=true&count_private=true" alt="JosepHyv" /></p>
 
    <div align="center"> 
-      <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=JosepHyv&hide_border=true&count_private=true&show_icons=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="JosepHyv"/>
-      <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosepHyv&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&show_icons=true&include_all_commits=true&count_private=true" alt="JosepHyv"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosepHyv&hide_border=true&count_private=true&show_icons=true&theme=radical&show_icons=true&include_all_commits=true" alt="JosepHyv"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=JosepHyv&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical&show_icons=true&include_all_commits=true" alt="JosepHyv"/>
 
    </div>
 
