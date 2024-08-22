@@ -8,7 +8,7 @@
 
 <div>
 	<h3 align='center'> 
-		Competitive Programmer | Software Engineer | <a href="https://www.auronix.com/" target="_blanc" style="color:white;">Auronix Jr Developer</a> 
+		Competitive Programmer | Software Engineer | <a href="https://www.auronix.com/" target="_blanc" style="color:white;">Semi Senior Software Engineer at Auronix</a> 
 	</h3>
 </div>
 
