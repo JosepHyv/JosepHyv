@@ -3,12 +3,11 @@
   <p align="center">
 <img src="https://komarev.com/ghpvc/?username=JosepHyv&style=flat&color=brightgreen" alt="Visitors Badge"/>
 </p>
-   <!-- I'm <a href="">Tony Robin</a>!  -->
 </h2>
 
 <div>
 	<h3 align='center'> 
-		Competitive Programmer | Software Engineer | <a href="https://www.auronix.com/" target="_blanc" style="color:white;">Semi Senior Software Engineer at Auronix</a> 
+		Competitive Programmer | SSr. Software Engineer | <a href="https://www.auronix.com/" target="_blanc" style="color:white;">Semi Senior Software Engineer at Auronix</a> 
 	</h3>
 </div>
 
@@ -29,7 +28,7 @@ I'm a passionate advocate for **open source ❤️** and education. I have parti
 
 Driven by a passion for competitive programming, open source, **Linux (I Use Arch BTW 😜)**, IA, and **education ❤️**. I am a continuous learner who enjoys sharing my knowledge and helping others reach their full potential.
 
-Currently working as a Jr. Developer at Auronix, where I am involved in web development, Artificial Intelligence, and REST APIs.
+Currently working as a SSr. Software Engineer at Auronix, where I am involved in web development, Artificial Intelligence, and REST APIs.
 
 I enjoy creating and contributing to open-source projects, whether backend, frontend, mobile development, data science, or AI or any topic, i thrive in collaborative environments and love learning alongside others ❤️.
 
